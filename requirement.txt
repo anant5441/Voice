@@ -1,0 +1,8 @@
+streamlit
+speechrecognition
+pydub
+pyaudio
+openai-whisper
+google-generativeai
+python-dotenv
+torch
